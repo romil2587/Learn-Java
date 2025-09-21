@@ -21,6 +21,7 @@ public class ArraywithScannerInput {
 			System.out.println(marks[j]);
 		}
 		
+		sc.close();
 		
 		
 		

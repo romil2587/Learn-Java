@@ -14,7 +14,7 @@ public class ReturnVsPrint {
 	}
 	
 	public static String getName()
-	{
+	{	
 		System.out.println("Get name function called");
 		return "Romil Singhtwadia";  
 	}
